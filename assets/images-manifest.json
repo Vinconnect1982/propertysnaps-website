@@ -1,0 +1,130 @@
+[
+  {
+    "src": "/mnt/data/modern_home_exterior_and_interiors.png",
+    "name": "listing-daylight.webp",
+    "title": "Listing photography",
+    "category": "Real Estate",
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "src": "/mnt/data/modern_corner_home_overlooking_parkland.png",
+    "name": "corner-block-aerial.webp",
+    "title": "Corner block and parkland",
+    "category": "Drone",
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "src": "/mnt/data/twilight_elegance_on_number_12.png",
+    "name": "twilight-street-front.webp",
+    "title": "Evening street presence",
+    "category": "Twilight",
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "src": "/mnt/data/isometric_four_bedroom_home_floor_plan.png",
+    "name": "four-bedroom-floorplan.webp",
+    "title": "3D floor plan layout",
+    "category": "Floor Plans",
+    "width": 1448,
+    "height": 923
+  },
+  {
+    "src": "/mnt/data/golden_hour_modern_suburban_home.png",
+    "name": "golden-hour-estate.webp",
+    "title": "Golden-hour property view",
+    "category": "Drone",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "src": "/mnt/data/modern_suburban_home_with_glass_balcony.png",
+    "name": "modern-home-daylight.webp",
+    "title": "Contemporary home exterior",
+    "category": "Real Estate",
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "src": "/mnt/data/warm_modern_open_plan_living.png",
+    "name": "open-plan-living.webp",
+    "title": "Open-plan living and kitchen",
+    "category": "Interiors",
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "src": "/mnt/data/twilight_modern_home_with_glowing_landscaping.png",
+    "name": "twilight-landscaping.webp",
+    "title": "Twilight landscape lighting",
+    "category": "Twilight",
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "src": "/mnt/data/modern_suburban_parkland_aerial_view.png",
+    "name": "parkland-aerial.webp",
+    "title": "Aerial neighbourhood context",
+    "category": "Drone",
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "src": "/mnt/data/contemporary_luxury_home_in_warm_light.png",
+    "name": "architectural-exterior.webp",
+    "title": "Architectural builder exterior",
+    "category": "Builders",
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "src": "/mnt/data/modern_kitchen_dining_with_garden_views.png",
+    "name": "kitchen-detail.webp",
+    "title": "Architectural kitchen finishes",
+    "category": "Interiors",
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "src": "/mnt/data/modern_isometric_family_home_floor_plan.png",
+    "name": "three-d-floorplan.webp",
+    "title": "3D property layout",
+    "category": "Floor Plans",
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "src": "/mnt/data/luxurious_open_plan_living_with_garden_views.png",
+    "name": "interior-wideangle.webp",
+    "title": "Wide-angle interior photography",
+    "category": "Interiors",
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "src": "/mnt/data/modern_alfresco_poolside_retreat.png",
+    "name": "pool-al-fresco.webp",
+    "title": "Pool and alfresco design",
+    "category": "Pools",
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "src": "/mnt/data/twilight_luxury_poolside_retreat.png",
+    "name": "twilight-pool.webp",
+    "title": "Pool at twilight",
+    "category": "Pools",
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "src": "/mnt/data/ghostwriter_images/generated/a_wide_cinematic_aerial_oblique_drone_view_of_a_m_2_batch_2.png",
+    "name": "aerial-evening.webp",
+    "title": "Twilight aerial exterior",
+    "category": "Drone",
+    "width": 1672,
+    "height": 941
+  }
+]
